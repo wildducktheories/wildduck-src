@@ -10,3 +10,6 @@
 [submodule "wildduck-build"]
 	path = wildduck-build
 	url = git@github.com:wildducktheories/wildduck-build.git
+[submodule "wildduck-blog"]
+	path = wildduck-blog
+	url = git@github.com:wildducktheories/wildduck-blog.git
