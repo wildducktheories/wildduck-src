@@ -1,3 +1,6 @@
 [submodule "wildduck-system"]
 	path = wildduck-system
 	url = git@github.com:wildducktheories/wildduck-system.git
+[submodule "wildduck-build"]
+	path = wildduck-build
+	url = git@github.com:wildducktheories/wildduck-build.git
