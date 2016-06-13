@@ -1,0 +1,3 @@
+[submodule "wildduck-system"]
+	path = wildduck-system
+	url = git@github.com:wildducktheories/wildduck-system.git
