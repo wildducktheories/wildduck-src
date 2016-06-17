@@ -13,3 +13,9 @@
 [submodule "wildduck-blog"]
 	path = wildduck-blog
 	url = git@github.com:wildducktheories/wildduck-blog.git
+[submodule "stop-blog"]
+	path = stop-blog
+	url = git@github.com:stoppremiumsms/blog.git
+[submodule "stop-static"]
+	path = stop-static
+	url = git@github.com:stoppremiumsms/static.git
