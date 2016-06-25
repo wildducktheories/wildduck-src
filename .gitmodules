@@ -19,3 +19,9 @@
 [submodule "stop-static"]
 	path = stop-static
 	url = git@github.com:stoppremiumsms/static.git
+[submodule "jonseymour-static"]
+	path = jonseymour-static
+	url = git@github.com:jonseymour/jonseymour-static.git
+[submodule "jonseymour-blog"]
+	path = jonseymour-blog
+	url = git@github.com:jonseymour/jonseymour-blog.git
